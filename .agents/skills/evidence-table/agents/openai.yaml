@@ -1,0 +1,3 @@
+interface:
+  display_name: "证据表"
+  short_description: "用于把网页资料、上传文件、Google Drive 内容、研究笔记或搜索结果整理为结构化中文证据表。适用于深度研究中需要抽取 claim、来源、日期、证据等级、支持或反驳假设、置信度和限制条件的任务。"
